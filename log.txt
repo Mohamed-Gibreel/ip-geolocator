@@ -1,0 +1,14 @@
+2020-04-03 15:20:11 [main] geolocator.GeoLocator.getGeoLocation()
+DEBUG: Getting URL...
+2020-04-03 15:20:11 [main] geolocator.GeoLocator.getGeoLocation()
+DEBUG: URL Obtained!
+2020-04-03 15:20:11 [main] geolocator.GeoLocator.getGeoLocation()
+INFO: The URL obtained is http://ip-api.com/json/
+2020-04-03 15:20:11 [main] geolocator.GeoLocator.getGeoLocation()
+WARN: URL obtained might not contain JSON Objects!
+2020-04-03 15:20:11 [main] geolocator.GeoLocator.getGeoLocation()
+INFO: Trying to get JSON Object ...
+2020-04-03 15:20:12 [main] geolocator.GeoLocator.getGeoLocation()
+DEBUG: A JSON Object has been obtained from http://ip-api.com/json/
+2020-04-03 15:20:12 [main] geolocator.GeoLocator.main()
+INFO: Country Found!, the user's country is Hungary!
